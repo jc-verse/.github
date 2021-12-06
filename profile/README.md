@@ -1,7 +1,5 @@
 ## JC-verse
 
-![jc-verse logo](/logo.png)
-
 A little universe of open-source softwares.
 
 ### Licensing
